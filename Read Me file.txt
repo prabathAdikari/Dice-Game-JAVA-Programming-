@@ -1,0 +1,29 @@
+Classes
+
+1. Die - Class which will generate a random number between 1 - 6 
+2. Player - Represent the user
+3. TestSixNumbers - Console class to test the Player and Die instances
+4. SixNumbersPanel - User Interface for 1 player game
+5. DisplaySixNumbersPanel - Driver Class to Test One Player Game
+6. SixNumbersPanel2 - User Interface for 2 Players
+7. DisplaySixNumberPanel2 - Driver Class to Test Two Player Game
+
+How to run
+
+1. Open command prompt direct to the project
+2. To test the Dice and Player class  type java TestSixNumbers and execute
+3. To run the One Player game  type java DisplaySixNumbersPanel and execute
+4. To run the Two Player game  type java  DisplaySixNumberPanel2 and execute
+
+
+Run method from jgrasp
+
+1.Fist extract the ZIP file (Dice game  main file )
+2 Then extract Dice game ZIP file 
+3.Then open "src" folder in Dice game folder
+4.Then open the file  which syas (DisplaysixNumberPannel2) with jgrasp   
+5.Then you can  run the code .  "Enjoy"
+
+    
+                             ******END******
+      
